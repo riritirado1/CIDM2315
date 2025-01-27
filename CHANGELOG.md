@@ -1,1 +1,3 @@
-01/27/2025: Created CIDM2315 repository & CHANGELOG.md
+01/27/2025
+- Created CIDM2315 repository & CHANGELOG.md
+- Upload the Homework1.cs file
